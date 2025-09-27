@@ -44,10 +44,3 @@ It helps users understand the evolution of Netflix’s content library, audience
 
 ## DASHBOARD LINK : 
 https://public.tableau.com/app/profile/naveen.kumar3929/viz/NETFLIXDASHBOARD_17589856696860/Netflix
-
----
-
-## 🚀 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/naveen17908/netflix-dashboard.git

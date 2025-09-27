@@ -50,4 +50,4 @@ https://public.tableau.com/app/profile/naveen.kumar3929/viz/NETFLIXDASHBOARD_175
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/netflix-dashboard.git
+   git clone https://github.com/naveen17908/netflix-dashboard.git

@@ -40,7 +40,7 @@ It helps users understand the evolution of Netflix’s content library, audience
 ## 🛠 Tools & Technologies
 - *Tableau* → Data Visualization & Dashboard  
 - *Python / Pandas* (optional) → For preprocessing (if applied)  
-- *Dataset* → Netflix Movies & TV Shows (from Kaggle / public dataset)
+- *Dataset* → Netflix Movies & TV Shows (from Kaggle / public dataset / excel)
 
 ## DASHBOARD LINK : 
 https://public.tableau.com/app/profile/naveen.kumar3929/viz/NETFLIXDASHBOARD_17589856696860/Netflix
